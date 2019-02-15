@@ -174,7 +174,7 @@ Resources:
               owner: root
               group: root
     Properties:
-      InstanceType: t2.medium
+      InstanceType: t2.nano
       KeyName: !Ref KeyName
       ImageId: !Ref AmiId
       IamInstanceProfile: !Ref Profile
