@@ -4,6 +4,3 @@
 
 # aws-ephemeral-infra
 Ephemeral infrastructure creation using AWS Cloudformation
-
-
-Test deploy PR
